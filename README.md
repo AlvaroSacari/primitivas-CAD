@@ -8,5 +8,5 @@ iniciar en PRINCIPAL.py
 Dependencias:
 - python-tk
 ```shell
-$sudo apt-get install python-tk
+  $sudo apt-get install python-tk
 ```
